@@ -151,7 +151,7 @@ There are a considerable amount of different UI components. Using online materia
 As you become more familiar with the various components, using them becomes more straightforward. What's common to almost all of the components is the way that they're added to an interface - once you know how to add one, you can add almost any component to your interface.
 
 <!-- Ainoa merkittävä ero käyttöliittymäkomponenttien lisäämisessä liittyy siihen, että mihin kohtaan käyttöliittymää komponentin haluaa lisätä. Tarkastellaan käyttöliittymäkomponenttien asettelua kohta. -->
-The biggest difference in adding components is where they're placed on the interface. You'll soon learn more about the lay these components out.
+The biggest difference in adding components is where they're placed on the interface. You'll soon learn more about how to lay these components out.
 
 
 <programming-exercise name='Button and label' tmcname='part13-Part13_02.ButtonAndLabel'>
